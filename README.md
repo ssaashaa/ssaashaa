@@ -3,7 +3,9 @@
 
 * QA Engineer with 4 years of experience
 * Automate iOS apps
+  * [Tinkoff Calculator](https://github.com/ssaashaa/TinkoffCalculator)
 * Develop iOS apps
+  * [Contacts](https://github.com/ssaashaa/Contacts)
   
 ### 📟 We can chat here:
 
