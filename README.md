@@ -1,10 +1,10 @@
 ## Oh, hi! 👋
 ### 😎 Thanks for checking in, but I'm still:
 
-* QA Engineer with 4 years of experience
-* Automate iOS apps
+* QA Engineer with 4 years experience
+* Automating iOS apps
   * [Tinkoff Calculator](https://github.com/ssaashaa/TinkoffCalculator)
-* Develop iOS apps
+* Developing iOS apps
   * [Contacts](https://github.com/ssaashaa/Contacts)
   
 ### 📟 We can chat here:
